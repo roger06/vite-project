@@ -26,6 +26,8 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
+        <p>seems GH pages needs to run gh-pages branch, yet updates are made on main! What figures</p>
+        <p>do you have to re run deploy every time you make a change?</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
